@@ -1,0 +1,2 @@
+how to use mass assignment to metaprogram a Ruby class
+
